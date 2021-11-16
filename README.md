@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ugogemesio
+- V This is a small project I did recently with the help of some good fellows. Credits are on file. :) 
+- https://scratch.mit.edu/projects/584298484/
 - 👀 I’m interested in a job where i will have some cash to marry with my girlfriend
-- 🌱 I’m currently learning ... CS50
-- 💞️ I’m looking to collaborate on ...just that
-- 📫 How to reach me ... Ugo Gemesio in All the places
+- 🌱 I’m currently learning, JavaScript, MySQL and CS50
+- 📫 How to reach me? Ugo Gemesio in All the places
 
-<!---
-ugogemesio/ugogemesio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
