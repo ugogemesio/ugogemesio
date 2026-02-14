@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ugo!
+
+💻 Backend developer focused on Java/Kotlin and architecture
+🚀 Interested in cloud, microservices, and performance
+📍 Brazil
+
+## 🛠️ Tech Stack
+
+* Java • Spring Boot
+* Docker • AWS • PostgreSQL
+* Angular / React
 
 
-**ugogemesio/ugogemesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+* LinkedIn: [(your link)](https://www.linkedin.com/in/ugogemesio/?locale=en-US)
+* Email: ugo.gemesio@gmail.com
