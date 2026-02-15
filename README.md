@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ugo!
 
-💻 Backend developer focused on Java/Kotlin and architecture
+💻 Backend developer focused on Java and architecture
 🚀 Interested in cloud, microservices, and performance
 📍 Brazil
 
