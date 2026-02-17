@@ -13,5 +13,5 @@
 
 ## 📫 Contact
 
-* LinkedIn: [(your link)](https://www.linkedin.com/in/ugogemesio/?locale=en-US)
+* LinkedIn: [(in/ugogemesio)](https://www.linkedin.com/in/ugogemesio/?locale=en-US)
 * Email: ugo.gemesio@gmail.com
